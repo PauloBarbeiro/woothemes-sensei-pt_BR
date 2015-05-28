@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: http://wordpress.org/tag/sensei\n"
 "POT-Creation-Date: 2015-05-24 13:34-0300\n"
-"PO-Revision-Date: 2015-05-24 13:44-0300\n"
+"PO-Revision-Date: 2015-05-28 16:52-0300\n"
 "Last-Translator: \n"
 "Language-Team: \n"
 "Language: pt_BR\n"
@@ -17,17 +17,17 @@ msgstr ""
 #: classes/class-woothemes-sensei-admin.php:91
 #: classes/class-woothemes-sensei-admin.php:1258
 msgid "Sensei"
-msgstr ""
+msgstr "FabricaSensei"
 
 #: classes/class-woothemes-sensei-admin.php:94
 #: classes/class-woothemes-sensei-admin.php:940
 msgid "Order Courses"
-msgstr ""
+msgstr "Ordem de Cursos"
 
 #: classes/class-woothemes-sensei-admin.php:95
 #: classes/class-woothemes-sensei-admin.php:1030
 msgid "Order Lessons"
-msgstr ""
+msgstr "Ordem de lições"
 
 #: classes/class-woothemes-sensei-admin.php:217
 msgid ""
@@ -55,7 +55,7 @@ msgstr "Cursos"
 #: classes/class-woothemes-sensei-admin.php:288
 msgctxt "page_slug"
 msgid "my-courses"
-msgstr "Meus Cursos"
+msgstr "meus-cursos"
 
 #: classes/class-woothemes-sensei-admin.php:288
 #: classes/class-woothemes-sensei-admin.php:1268
@@ -131,19 +131,19 @@ msgstr ""
 
 #: classes/class-woothemes-sensei-admin.php:667
 msgid "Show all courses"
-msgstr ""
+msgstr "Mostrar todos os cursos"
 
 #: classes/class-woothemes-sensei-admin.php:949
 msgid "The course order has been saved."
-msgstr ""
+msgstr "Ordem dos cursos foi salva."
 
 #: classes/class-woothemes-sensei-admin.php:983
 msgid "Save course order"
-msgstr ""
+msgstr "Salvar ordem dos cursos"
 
 #: classes/class-woothemes-sensei-admin.php:1040
 msgid "The lesson order has been saved."
-msgstr ""
+msgstr "Ordem das lições foi salva."
 
 #: classes/class-woothemes-sensei-admin.php:1058
 #: classes/class-woothemes-sensei-grading-main.php:436
@@ -165,7 +165,7 @@ msgstr ""
 
 #: classes/class-woothemes-sensei-admin.php:1193
 msgid "Save lesson order"
-msgstr ""
+msgstr "Salvar ordem das lições"
 
 #: classes/class-woothemes-sensei-admin.php:1267
 #: classes/class-woothemes-sensei-analysis-overview.php:52
@@ -423,7 +423,7 @@ msgstr "Visão Geral"
 #: classes/class-woothemes-sensei-course-results.php:36
 msgctxt "post type single url slug"
 msgid "course"
-msgstr "curso"
+msgstr ""
 
 #: classes/class-woothemes-sensei-course-results.php:74
 msgid "Course Results: "
@@ -854,6 +854,8 @@ msgid ""
 "You have already added this Course to your cart. Please %1$s to access the "
 "course."
 msgstr ""
+"Você já adicionou seu este curso ao carrinho de compras. Por favor, %1$s "
+"para fazer o curso completo!"
 
 #: classes/class-woothemes-sensei-frontend.php:1775
 msgid "complete the purchase"
@@ -1183,7 +1185,7 @@ msgstr "Não há aulas ainda. Por favor, adicione algumas."
 
 #: classes/class-woothemes-sensei-lesson.php:238
 msgid "Allow this lesson to be viewed without purchase/login"
-msgstr ""
+msgstr "Permitir que esta lição seja vista sem pagamento/login"
 
 #: classes/class-woothemes-sensei-lesson.php:308
 #: classes/class-woothemes-sensei-posttypes.php:533
@@ -1686,22 +1688,22 @@ msgstr "Categorias do Curso"
 #: classes/class-woothemes-sensei-posttypes.php:135
 msgctxt "post type single url base"
 msgid "course"
-msgstr "curso"
+msgstr ""
 
 #: classes/class-woothemes-sensei-posttypes.php:196
 msgctxt "post type single slug"
 msgid "lesson"
-msgstr "aula"
+msgstr ""
 
 #: classes/class-woothemes-sensei-posttypes.php:250
 msgctxt "post type single slug"
 msgid "quiz"
-msgstr "Teste"
+msgstr ""
 
 #: classes/class-woothemes-sensei-posttypes.php:279
 msgctxt "post type single slug"
 msgid "question"
-msgstr "Questão"
+msgstr ""
 
 #: classes/class-woothemes-sensei-posttypes.php:307
 msgctxt "post type single slug"
@@ -1754,7 +1756,7 @@ msgstr ""
 #: classes/class-woothemes-sensei-posttypes.php:379
 msgctxt "taxonomy archive slug"
 msgid "course-category"
-msgstr "Categoria do Curso"
+msgstr ""
 
 #: classes/class-woothemes-sensei-posttypes.php:393
 msgctxt "taxonomy general name"
@@ -1912,7 +1914,7 @@ msgstr ""
 #: classes/class-woothemes-sensei-posttypes.php:498
 msgctxt "taxonomy general name"
 msgid "Lesson Tags"
-msgstr "Tags da aula: %1$s"
+msgstr "Tags para aulas"
 
 #: classes/class-woothemes-sensei-posttypes.php:499
 msgctxt "taxonomy singular name"
@@ -1953,12 +1955,12 @@ msgstr ""
 
 #: classes/class-woothemes-sensei-posttypes.php:508
 msgid "Lesson Tags"
-msgstr "Tags da aula: %1$s"
+msgstr "Tags para aula"
 
 #: classes/class-woothemes-sensei-posttypes.php:517
 msgctxt "taxonomy archive slug"
 msgid "lesson-tag"
-msgstr "Tag da aula: %1$s"
+msgstr ""
 
 #: classes/class-woothemes-sensei-posttypes.php:533
 #: classes/class-woothemes-sensei-question.php:131
@@ -2006,7 +2008,7 @@ msgstr ""
 
 #: classes/class-woothemes-sensei-posttypes.php:557
 msgid "All %s"
-msgstr ""
+msgstr "Todxs %s"
 
 #: classes/class-woothemes-sensei-posttypes.php:558
 msgid "View %s"
@@ -2685,7 +2687,7 @@ msgstr ""
 
 #: classes/class-woothemes-sensei-updates.php:715
 msgid "Teacher"
-msgstr ""
+msgstr "Professor"
 
 #: classes/class-woothemes-sensei-utils.php:1150
 msgid "You have not started this course yet."
@@ -2840,35 +2842,35 @@ msgstr ""
 
 #: classes/emails/class-woothemes-sensei-email-learner-graded-quiz.php:33
 msgid "[%1$s] Your quiz has been graded"
-msgstr ""
+msgstr "[%1$s] Seu questionário foi avaliado"
 
 #: classes/emails/class-woothemes-sensei-email-learner-graded-quiz.php:34
 msgid "Your quiz has been graded"
-msgstr ""
+msgstr "Seu questionário foi avaliado"
 
 #: classes/emails/class-woothemes-sensei-email-learner-graded-quiz.php:59
 msgid "[%1$s] You have completed a quiz"
-msgstr ""
+msgstr "[%1$s] Você completou o questionário"
 
 #: classes/emails/class-woothemes-sensei-email-learner-graded-quiz.php:60
 msgid "You have completed a quiz"
-msgstr ""
+msgstr "Você completou o questionário"
 
 #: classes/emails/class-woothemes-sensei-email-new-message-reply.php:37
 msgid "[%1$s] You have a new message"
-msgstr ""
+msgstr "[%1$s] Você tem uma nova mensagem"
 
 #: classes/emails/class-woothemes-sensei-email-new-message-reply.php:38
 msgid "You have received a reply to your private message"
-msgstr ""
+msgstr "Você recebeu uma resposta para sua mensagem privada"
 
 #: classes/emails/class-woothemes-sensei-email-teacher-completed-course.php:34
 msgid "[%1$s] Your student has completed a course"
-msgstr ""
+msgstr "[%1$s] Seu aluno completou um curso"
 
 #: classes/emails/class-woothemes-sensei-email-teacher-completed-course.php:35
 msgid "Your student has completed a course"
-msgstr ""
+msgstr "Seu aluno completou um curso"
 
 #: classes/emails/class-woothemes-sensei-email-teacher-new-message.php:35
 msgid "[%1$s] You have received a new private message"
@@ -2934,7 +2936,7 @@ msgstr ""
 
 #: templates/emails/learner-graded-quiz.php:30
 msgid "with a grade of"
-msgstr ""
+msgstr "com a nota"
 
 #: templates/emails/learner-graded-quiz.php:34
 msgid "The pass mark is %1$s"
@@ -2957,11 +2959,11 @@ msgstr ""
 #: templates/emails/teacher-quiz-submitted.php:26
 #: templates/emails/teacher-started-course.php:26
 msgid "Your student"
-msgstr ""
+msgstr "Seu aluno"
 
 #: templates/emails/teacher-completed-course.php:30
 msgid "has completed and %1$s the course"
-msgstr ""
+msgstr "completou %1$s do curso."
 
 #: templates/emails/teacher-completed-course.php:36
 #: templates/emails/teacher-started-course.php:36
@@ -2974,23 +2976,23 @@ msgstr ""
 
 #: templates/emails/teacher-new-message.php:40
 msgid "You can reply to this message %1$shere%2$s."
-msgstr ""
+msgstr "Você pode responder a essa mensagem %1$shere%2$s."
 
 #: templates/emails/teacher-quiz-submitted.php:30
 msgid "has submitted the quiz for lesson"
-msgstr ""
+msgstr "Submeteu um questionário para a lição"
 
 #: templates/emails/teacher-quiz-submitted.php:34
 msgid "for grading."
-msgstr ""
+msgstr "para nota."
 
 #: templates/emails/teacher-quiz-submitted.php:38
 msgid "You can grade this quiz %1$shere%2$s."
-msgstr ""
+msgstr "Sua nota nesse questionário %1$shere%2$s."
 
 #: templates/emails/teacher-started-course.php:30
 msgid "has started the course"
-msgstr ""
+msgstr "Começou o curso"
 
 #: templates/loop-course.php:77 templates/loop-course.php:135
 msgid "(%d preview lessons)"
@@ -3006,11 +3008,11 @@ msgstr " minutos"
 
 #: templates/loop-lesson.php:83 templates/single-course/course-lessons.php:109
 msgid "Author: "
-msgstr "Autor: "
+msgstr " Autor: "
 
 #: templates/loop-lesson.php:85 templates/single-course/course-lessons.php:111
 msgid "Complexity: "
-msgstr "Complexidade: "
+msgstr " Complexidade: "
 
 #: templates/single-course/course-lessons.php:35
 msgid "Currently completed %1$s of %2$s in total"
@@ -3036,11 +3038,11 @@ msgstr "Nota: %d"
 
 #: templates/single-quiz/question_type-file-upload.php:57
 msgid "Maximum upload file size: %d%s"
-msgstr ""
+msgstr "Tamanho máximo para upload: %d%s"
 
 #: templates/single-quiz/question_type-file-upload.php:143
 msgid "Uploading a new file will replace your existing one:"
-msgstr ""
+msgstr "Carregar um novo arquivo, irá substituir um já existente:"
 
 #: templates/single-quiz/question_type-single-line.php:114
 msgid "Answer:"
@@ -3052,7 +3054,7 @@ msgstr "Ainda não há questões para este Teste ainda. Volte em breve."
 
 #: templates/user/login-form.php:62
 msgid "Lost your password?"
-msgstr ""
+msgstr "Perdeu sua senha?"
 
 #: templates/user/login-form.php:66
 msgid "Remember me"
@@ -3076,18 +3078,18 @@ msgstr "<span class=\"meta-nav\"></span> Anterior"
 
 #: widgets/widget-woothemes-sensei-category-courses.php:42
 msgid "This widget will output a list of Courses for a specific category."
-msgstr ""
+msgstr "Esta widget exibirá uma lista de Cursos para uma categoria específica."
 
 #: widgets/widget-woothemes-sensei-category-courses.php:44
 msgid "Sensei - Category Courses"
-msgstr ""
+msgstr "Sensei - Categoria de Cursos"
 
 #: widgets/widget-woothemes-sensei-category-courses.php:135
 #: widgets/widget-woothemes-sensei-course-categories.php:134
 #: widgets/widget-woothemes-sensei-course-component.php:155
 #: widgets/widget-woothemes-sensei-lesson-component.php:144
 msgid "Title (optional):"
-msgstr ""
+msgstr "Título (opcional):"
 
 #: widgets/widget-woothemes-sensei-category-courses.php:140
 msgid "Course Category:"
@@ -3095,16 +3097,16 @@ msgstr "Categoria do Curso"
 
 #: widgets/widget-woothemes-sensei-category-courses.php:142
 msgid "Select Category:"
-msgstr ""
+msgstr "Selecione Categoria:"
 
 #: widgets/widget-woothemes-sensei-category-courses.php:148
 #: widgets/widget-woothemes-sensei-course-component.php:169
 msgid "Number of Courses (optional):"
-msgstr ""
+msgstr "Número de Cursos (opcional):"
 
 #: widgets/widget-woothemes-sensei-course-categories.php:42
 msgid "This widget will output a list of Course Categories."
-msgstr ""
+msgstr "Esta widget exibirá uma lista de categorias de cursos."
 
 #: widgets/widget-woothemes-sensei-course-categories.php:44
 msgid "Sensei - Course Categories"
