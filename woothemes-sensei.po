@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: http://wordpress.org/tag/sensei\n"
 "POT-Creation-Date: 2015-05-24 13:34-0300\n"
-"PO-Revision-Date: 2015-05-28 16:52-0300\n"
+"PO-Revision-Date: 2015-06-22 23:22-0300\n"
 "Last-Translator: \n"
 "Language-Team: \n"
 "Language: pt_BR\n"
@@ -2556,7 +2556,7 @@ msgstr ""
 #: classes/class-woothemes-sensei-settings.php:494
 #: templates/emails/footer.php:23
 msgid "%1$s - Powered by Sensei"
-msgstr ""
+msgstr "%1$s - Feito por Fábrica.website"
 
 #: classes/class-woothemes-sensei-settings.php:500
 msgid "Base Colour"
@@ -2776,7 +2776,7 @@ msgstr "Permissão Negada"
 
 #: classes/class-woothemes-sensei.php:72
 msgid "Unfortunately you do not have permissions to access this page."
-msgstr ""
+msgstr "Infelizmente você não tem autorização para acessar esta página"
 
 #: classes/class-woothemes-sensei.php:94
 msgid "Sensei Settings"
@@ -2798,6 +2798,7 @@ msgstr "Por favor, conclua o %1$s anterior antes de fazer este curso."
 msgid ""
 "This is a preview lesson. Please purchase the %1$s to access all lessons."
 msgstr ""
+"Esta é uma lição de amostra. Adquira o %1$s para acessar todas as lições."
 
 #: classes/class-woothemes-sensei.php:705
 msgid "Please purchase the %1$s before starting this Lesson."
@@ -2807,6 +2808,8 @@ msgstr "Por favor, adquira o %1$s antes de iniciar esta Aula."
 msgid ""
 "This is a preview lesson. Please sign up for the %1$s to access all lessons."
 msgstr ""
+"Esta é uma lição de amostra. Cadastre-se em %1$s para acessar todas as "
+"lições."
 
 #: classes/class-woothemes-sensei.php:711
 msgid "Please sign up for the %1$s before starting this Lesson."
@@ -2834,11 +2837,11 @@ msgstr "Detalhes do curso"
 
 #: classes/emails/class-woothemes-sensei-email-learner-completed-course.php:33
 msgid "[%1$s] You have completed a course"
-msgstr ""
+msgstr "[%1$s] Você completou o curso"
 
 #: classes/emails/class-woothemes-sensei-email-learner-completed-course.php:34
 msgid "You have completed a course"
-msgstr ""
+msgstr "Você completou o curso"
 
 #: classes/emails/class-woothemes-sensei-email-learner-graded-quiz.php:33
 msgid "[%1$s] Your quiz has been graded"
@@ -2874,27 +2877,27 @@ msgstr "Seu aluno completou um curso"
 
 #: classes/emails/class-woothemes-sensei-email-teacher-new-message.php:35
 msgid "[%1$s] You have received a new private message"
-msgstr ""
+msgstr "[%1$s] Seu aluno enviou uma mensagem privada"
 
 #: classes/emails/class-woothemes-sensei-email-teacher-new-message.php:36
 msgid "Your student has sent you a private message"
-msgstr ""
+msgstr "Seu aluno enviou uma mensagem privada"
 
 #: classes/emails/class-woothemes-sensei-email-teacher-quiz-submitted.php:34
 msgid "[%1$s] Your student has submitted a quiz for grading"
-msgstr ""
+msgstr "[%1$s] Seu aluno enviou um questionário para correção"
 
 #: classes/emails/class-woothemes-sensei-email-teacher-quiz-submitted.php:35
 msgid "Your student has submitted a quiz for grading"
-msgstr ""
+msgstr "Seu aluno enviou um questionário para correção"
 
 #: classes/emails/class-woothemes-sensei-email-teacher-started-course.php:34
 msgid "[%1$s] Your student has started a course"
-msgstr ""
+msgstr "[%1$s] Seu aluno começou um curso"
 
 #: classes/emails/class-woothemes-sensei-email-teacher-started-course.php:35
 msgid "Your student has started a course"
-msgstr ""
+msgstr "Seu aluno começou o curso"
 
 #: inc/woothemes-sensei-template.php:85
 msgid "%1$s"
@@ -2914,7 +2917,7 @@ msgstr "Você deve primeiro completar: %1$s "
 
 #: templates/content-single-message.php:27 templates/loop-message.php:45
 msgid "Sent by %1$s on %2$s."
-msgstr ""
+msgstr "Enviado por %1$s em %2$s."
 
 #: templates/course-results/course-lessons.php:83
 #: templates/course-results/course-lessons.php:123
@@ -2928,11 +2931,11 @@ msgstr "NOTA TOTAL"
 
 #: templates/emails/learner-completed-course.php:26
 msgid "You have completed and %1$s the course"
-msgstr ""
+msgstr "Você completou e %1$s o curso"
 
 #: templates/emails/learner-graded-quiz.php:26
 msgid "You %1$s the lesson"
-msgstr ""
+msgstr "Você %1$s a lição"
 
 #: templates/emails/learner-graded-quiz.php:30
 msgid "with a grade of"
@@ -2940,19 +2943,19 @@ msgstr "com a nota"
 
 #: templates/emails/learner-graded-quiz.php:34
 msgid "The pass mark is %1$s"
-msgstr ""
+msgstr "Nota média é %1$s"
 
 #: templates/emails/learner-graded-quiz.php:38
 msgid "You can review your grade and your answers %1$shere%2$s."
-msgstr ""
+msgstr "Você pode rever sua nota e suas respostas %1$shere%2$s."
 
 #: templates/emails/new-message-reply.php:28
 msgid "has replied to your private message regarding the %1$s"
-msgstr ""
+msgstr "Respondeu sua mensagem privada sobre %1$s"
 
 #: templates/emails/new-message-reply.php:38
 msgid "You can view the message and reply %1$shere%2$s."
-msgstr ""
+msgstr "Você pode ler a mensagem e responder %1$shere%2$s."
 
 #: templates/emails/teacher-completed-course.php:26
 #: templates/emails/teacher-new-message.php:26
@@ -2972,7 +2975,7 @@ msgstr ""
 
 #: templates/emails/teacher-new-message.php:30
 msgid "has sent you a private message regarding the %1$s"
-msgstr ""
+msgstr "te enviou uma mensagem privada sobre %1$s"
 
 #: templates/emails/teacher-new-message.php:40
 msgid "You can reply to this message %1$shere%2$s."
@@ -3067,6 +3070,10 @@ msgstr "No momento você está fazendo este curso."
 #: templates/woocommerce/add-to-cart.php:49
 msgid "Purchase this Course"
 msgstr "Adquira este Curso"
+
+#: templates/woocommerce/add-to-cart.php:61
+msgid "Or %1$s to access your purchased courses"
+msgstr "Ou %1$s para acessar seus cursos já adquiridos"
 
 #: templates/wrappers/pagination.php:17
 msgid "Next <span class=\"meta-nav\"></span>"
