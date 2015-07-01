@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: http://wordpress.org/tag/sensei\n"
 "POT-Creation-Date: 2015-05-24 13:34-0300\n"
-"PO-Revision-Date: 2015-06-30 19:20-0300\n"
+"PO-Revision-Date: 2015-07-01 18:51-0300\n"
 "Last-Translator: \n"
 "Language-Team: \n"
 "Language: pt_BR\n"
@@ -1658,7 +1658,7 @@ msgstr ""
 
 #: classes/class-woothemes-sensei-messages.php:167
 msgid "Contact %1$s Teacher"
-msgstr ""
+msgstr "Contate o Professor"
 
 #: classes/class-woothemes-sensei-messages.php:190
 msgid "Send Private Message"
